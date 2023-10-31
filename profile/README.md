@@ -10,7 +10,8 @@ This project is meant as a container for utility-scripts that should work on any
 
 ### [configlib-py](https://github.com/utility-libraries/configlib-py)
 
-![PyPI - Version](https://img.shields.io/pypi/v/config-library)
+[![PyPI - Version](https://img.shields.io/pypi/v/config-library)
+](https://pypi.org/project/config-library/)
 
 > utility library to find and load configuration files
 
@@ -18,7 +19,8 @@ See on [pypi.org](https://pypi.org/project/config-library/) or install with `pip
 
 ### [passwordlib-py](https://github.com/utility-libraries/passwordlib-py)
 
-![PyPI - Version](https://img.shields.io/pypi/v/password-library)
+[![PyPI - Version](https://img.shields.io/pypi/v/password-library)
+](https://pypi.org/project/password-library/)
 
 > utility library to verify, hash, compare and more for passwords
 
@@ -26,7 +28,8 @@ See on [pypi.org](https://pypi.org/project/password-library/) or install with `p
 
 ### [color-generation-py](https://github.com/utility-libraries/color-generation-py)
 
-![PyPI - Version](https://img.shields.io/pypi/v/color-generation)
+[![PyPI - Version](https://img.shields.io/pypi/v/color-generation)
+](https://pypi.org/project/color-generation/)
 
 > generate random good looking colors
 
@@ -34,7 +37,8 @@ See on [pypi.org](https://pypi.org/project/color-generation/) or install with `p
 
 ### [messagebox-py](https://github.com/utility-libraries/messagebox-py)
 
-![PyPI - Version](https://img.shields.io/pypi/v/messagebox)
+[![PyPI - Version](https://img.shields.io/pypi/v/messagebox)
+](https://pypi.org/project/messagebox/)
 
 > Messagebox for userinput/useroutput WITHOUT library dependencies like tkinter
 
@@ -42,7 +46,8 @@ See on [pypi.org](https://pypi.org/project/messagebox/) or install with `pip ins
 
 ### [fixpath-py](https://github.com/utility-libraries/fixpath-py)
 
-![PyPI - Version](https://img.shields.io/pypi/v/fixpath)
+[![PyPI - Version](https://img.shields.io/pypi/v/fixpath)
+](https://pypi.org/project/fixpath/)
 
 > fix incorrect user-path-inputs
 
