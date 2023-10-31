@@ -1,5 +1,11 @@
 This organization provides small but powerful utlity libraries
 
+## Shell
+
+### [utilities-sh](https://github.com/utility-libraries/utilities-sh)
+
+This project is meant as a container for utility-scripts that should work on any linux system out of the box.
+
 ## Libraries for Python
 
 ### [configlib-py](https://github.com/utility-libraries/configlib-py)
