@@ -6,6 +6,7 @@ This organization provides small but powerful utlity libraries
 
 This project is meant as a container for utility-scripts that should work on any linux system out of the box.
 
+
 ## Libraries for Python
 
 ### [configlib-py](https://github.com/utility-libraries/configlib-py)
@@ -17,6 +18,7 @@ This project is meant as a container for utility-scripts that should work on any
 
 See on [pypi.org](https://pypi.org/project/config-library/) or install with `pip install config-library`
 
+
 ### [passwordlib-py](https://github.com/utility-libraries/passwordlib-py)
 
 [![PyPI - Version](https://img.shields.io/pypi/v/password-library)
@@ -25,6 +27,17 @@ See on [pypi.org](https://pypi.org/project/config-library/) or install with `pip
 > utility library to verify, hash, compare and more for passwords
 
 See on [pypi.org](https://pypi.org/project/password-library/) or install with `pip install password-library`
+
+
+### [shell-complete-py](https://github.com/utility-libraries/shell-complete-py)
+
+[![PyPI - Version](https://img.shields.io/pypi/v/shell-complete)
+](https://pypi.org/project/shell-complete/)
+
+> python package to generate shell-completion for your CLI
+
+See on [pypi.org](https://pypi.org/project/shell-complete/) or install with `pip install shell-complete`
+
 
 ### [color-generation-py](https://github.com/utility-libraries/color-generation-py)
 
@@ -35,6 +48,7 @@ See on [pypi.org](https://pypi.org/project/password-library/) or install with `p
 
 See on [pypi.org](https://pypi.org/project/color-generation/) or install with `pip install color-generation`
 
+
 ### [messagebox-py](https://github.com/utility-libraries/messagebox-py)
 
 [![PyPI - Version](https://img.shields.io/pypi/v/messagebox)
@@ -43,6 +57,7 @@ See on [pypi.org](https://pypi.org/project/color-generation/) or install with `p
 > Messagebox for userinput/useroutput WITHOUT library dependencies like tkinter
 
 See on [pypi.org](https://pypi.org/project/messagebox/) or install with `pip install messagebox`
+
 
 ### [fixpath-py](https://github.com/utility-libraries/fixpath-py)
 
