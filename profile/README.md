@@ -29,6 +29,16 @@ See on [pypi.org](https://pypi.org/project/config-library/) or install with `pip
 See on [pypi.org](https://pypi.org/project/password-library/) or install with `pip install password-library`
 
 
+### [debuglib-py](https://github.com/utility-libraries/debuglib-py)
+
+[![PyPI - Version](https://img.shields.io/pypi/v/debuglib)
+](https://pypi.org/project/debuglib/)
+
+> python debugger tool with easy integration into any program
+
+See on [pypi.org](https://pypi.org/project/debuglib/) or install with `pip install debuglib`
+
+
 ### [shell-complete-py](https://github.com/utility-libraries/shell-complete-py)
 
 [![PyPI - Version](https://img.shields.io/pypi/v/shell-complete)
