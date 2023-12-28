@@ -39,6 +39,16 @@ See on [pypi.org](https://pypi.org/project/password-library/) or install with `p
 See on [pypi.org](https://pypi.org/project/debuglib/) or install with `pip install debuglib`
 
 
+### [structurelib-py](https://github.com/utility-libraries/structurelib-py)
+
+[![PyPI - Version](https://img.shields.io/pypi/v/structurelib)
+](https://pypi.org/project/structurelib/)
+
+> similar function to the builtin struct-library but more friendly
+
+See on [pypi.org](https://pypi.org/project/structurelib/) or install with `pip install structurelib`
+
+
 ### [shell-complete-py](https://github.com/utility-libraries/shell-complete-py)
 
 [![PyPI - Version](https://img.shields.io/pypi/v/shell-complete)
