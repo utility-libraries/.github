@@ -31,6 +31,16 @@ See on [pypi.org](https://pypi.org/project/config-library/) or install with `pip
 See on [pypi.org](https://pypi.org/project/password-library/) or install with `pip install password-library`
 
 
+### [pluginlib-py](https://github.com/utility-libraries/pluginlib-py)
+
+[![PyPI - Version](https://img.shields.io/pypi/v/plugin-library)
+](https://pypi.org/project/plugin-library/)
+
+> utility library to find and load plugins
+
+See on [pypi.org](https://pypi.org/project/plugin-library/) or install with `pip install plugin-library`
+
+
 ### [debuglib-py](https://github.com/utility-libraries/debuglib-py)
 
 [![PyPI - Version](https://img.shields.io/pypi/v/debuglib)
