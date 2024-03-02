@@ -1,4 +1,6 @@
-This organization provides small but powerful utlity libraries
+This organization provides small but powerful utlity libraries.
+The main focus is on libraries for python (as it's the best known for me) but other languages are also welcome to be supported.
+If you wish to contribute to existing libraries or create a new one feel free to join and support.
 
 ## Shell
 
