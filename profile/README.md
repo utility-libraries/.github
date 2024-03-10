@@ -2,6 +2,8 @@ This organization provides small but powerful utlity libraries.
 The main focus is on libraries for python (as it's the best known for me) but other languages are also welcome to be supported.
 If you wish to contribute to existing libraries or create a new one feel free to join and support.
 
+Visit our [Website](https://utility-libraries.github.io/) for more detailed information.
+
 ## Shell
 
 ### [utilities-sh](https://github.com/utility-libraries/utilities-sh)
@@ -30,7 +32,7 @@ See on [pypi.org](https://pypi.org/project/config-library/) or install with `pip
 
 See on [pypi.org](https://pypi.org/project/password-library/) or install with `pip install password-library`
 
-
+<!--
 ### [pluginlib-py](https://github.com/utility-libraries/pluginlib-py)
 
 [![PyPI - Version](https://img.shields.io/pypi/v/plugin-library)
@@ -39,8 +41,9 @@ See on [pypi.org](https://pypi.org/project/password-library/) or install with `p
 > utility library to find and load plugins
 
 See on [pypi.org](https://pypi.org/project/plugin-library/) or install with `pip install plugin-library`
+-->
 
-
+<!--
 ### [debuglib-py](https://github.com/utility-libraries/debuglib-py)
 
 [![PyPI - Version](https://img.shields.io/pypi/v/debuglib)
@@ -49,8 +52,9 @@ See on [pypi.org](https://pypi.org/project/plugin-library/) or install with `pip
 > python debugger tool with easy integration into any program
 
 See on [pypi.org](https://pypi.org/project/debuglib/) or install with `pip install debuglib`
+-->
 
-
+<!--
 ### [structurelib-py](https://github.com/utility-libraries/structurelib-py)
 
 [![PyPI - Version](https://img.shields.io/pypi/v/structurelib)
@@ -59,17 +63,7 @@ See on [pypi.org](https://pypi.org/project/debuglib/) or install with `pip insta
 > similar function to the builtin struct-library but more friendly
 
 See on [pypi.org](https://pypi.org/project/structurelib/) or install with `pip install structurelib`
-
-
-### [shell-complete-py](https://github.com/utility-libraries/shell-complete-py)
-
-[![PyPI - Version](https://img.shields.io/pypi/v/shell-complete)
-](https://pypi.org/project/shell-complete/)
-
-> python package to generate shell-completion for your CLI
-
-See on [pypi.org](https://pypi.org/project/shell-complete/) or install with `pip install shell-complete`
-
+-->
 
 ### [color-generation-py](https://github.com/utility-libraries/color-generation-py)
 
